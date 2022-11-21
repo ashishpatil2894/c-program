@@ -19,3 +19,6 @@ add();
          scanf("%d",&a,&b);
          c=a+b;
          printf("\n addition of two number=%d",c);
+              printf("\n Welcome");
+       }
+       }
