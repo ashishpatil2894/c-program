@@ -16,6 +16,18 @@ add();
        {
          int a,b,c;
          printf("\n enter two number=");
-         scanf("%d",&a,&b);
+         scanf("%d%d",&a,&b);
          c=a+b;
          printf("\n addition of two number=%d",c);
+       }
+       }
+       void add()
+       {
+         int a,b,c;
+         printf("\n enter two number=");
+         scanf("%d%d",&a,&b);
+         c=a-b;
+         printf("\n substraction of two number=%d",c);
+              
+       }
+
